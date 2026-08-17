@@ -3,6 +3,7 @@
 
 > *«Скажи своему процессору спасибо»*
 
+---
 
 ## 🇷🇺 Русская версия
 
@@ -59,10 +60,12 @@ max_block_bits = round_up( sqrt( RAM_GB * 1024 ) )
 Пример змейки в матрице (номера ячеек по порядку заполнения):
 
 ```
+
 0  1  2  3
 7  6  5  4
 8  9 10 11
 15 14 13 12
+
 ```
 
 Матрицы создаются **лениво**: только тогда, когда в предыдущей закончились свободные ячейки. При этом **одна матрица заполняется полностью, прежде чем создаётся следующая**. Если в текущей матрице есть хотя бы одна пустая ячейка — новая матрица не создаётся. Это предотвращает фрагментацию на уровне матриц.
@@ -125,8 +128,9 @@ MIT License. Подробнее в файле LICENSE.
 
 Автор
 
-Yaroslav Ishkov — создатель LazyRoot.
+[Ваше имя или ник] — создатель LazyRoot.
 
+---
 
 🇬🇧 English Version
 
@@ -249,8 +253,10 @@ Author
 
 Yaroslav Ishkov — creator of LazyRoot.
 
+---
 
 🌟 Support the Project
 
 If you find LazyRoot useful or interesting, please give it a ⭐️ on GitHub and share it in your communities. Contributions and ideas are welcome!
+
 ```
