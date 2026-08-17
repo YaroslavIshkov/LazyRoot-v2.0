@@ -1,11 +1,8 @@
----
-
 ```markdown
 # LazyRoot v2.0 — адаптивный контейнер данных
 
 > *«Скажи своему процессору спасибо»*
 
----
 
 ## 🇷🇺 Русская версия
 
@@ -132,7 +129,6 @@ MIT License. Подробнее в файле LICENSE.
 
 Yaroslav Ishkov — создатель LazyRoot.
 
----
 
 🇬🇧 English Version
 
@@ -255,12 +251,9 @@ Author
 
 Yaroslav Ishkov — creator of LazyRoot.
 
----
 
 🌟 Support the Project
 
 If you find LazyRoot useful or interesting, please give it a ⭐️ on GitHub and share it in your communities. Contributions and ideas are welcome!
 
 ```
-
----
